@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PulseApp",
+    "slug": "PulseApp",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
